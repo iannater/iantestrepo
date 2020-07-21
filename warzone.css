@@ -1,0 +1,24 @@
+
+h1 {
+text-align: center;
+background-color: lightslategray;
+padding: 20px;
+margin: 20 px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    margin: 20px;
+
+  }
+
+
+#drops{ 
+  float:right;
+}
+
+  .drops {color: blue;}
+
+
+  form {border: 1px solid black}
+
