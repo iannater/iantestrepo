@@ -1,0 +1,42 @@
+h2{
+    text-align: center;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+header{
+    background-color: pink;
+    padding: 20px;
+}
+
+.buttons{
+    margin: 20px;
+    text-align: center;
+}
+
+.button{
+    margin: 20px;
+    padding: 40px;
+}
+.button:hover{
+    background-color: pink;
+}
+
+
+table{
+    text-align: center;
+    width: 80%;
+    margin: auto
+}
+
+.history {
+    text-align: center;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+
+
